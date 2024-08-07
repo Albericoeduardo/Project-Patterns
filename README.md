@@ -1,3 +1,3 @@
 # project_patterns
 
-A new Flutter project.
+Repository for studying Design Patterns from my Mobile II class
